@@ -8,3 +8,9 @@ I come from a mountainous country, Nepal. I completed my undergraduate studies m
 
 ## Plans
 After I graduate, I hope to work as a Business/ Data Analyst and move to Texas/ Kansas City. After gaining hands on experience in those fields, I want to work in Project Management.
+
+## Links
+You can connect with me in:
+
+- LinkedIn: https://www.linkedin.com/in/bihanitamang/
+- GitHub: https://github.com/blonbihani
